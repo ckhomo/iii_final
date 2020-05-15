@@ -16,11 +16,6 @@
 
 5. 最後於主目錄 kilimanjaro-web-project> 以 npm start 開啟主頁面
 
-使用工具可參考https://github.com/ronny1020/kilimanjaro-web-project/network/dependencies
-
-
-
-PS. 本網站僅供練習使用，將不用於任何商業行為，若有不慎造成任何侵權行為
-    請與我們聯繫，將會儘快拿下相關資料
-    信箱:1020ronny@gmail.com
+Just for practice purpose!
+Email: ck9030311@gmail.com
 
